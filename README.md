@@ -11,7 +11,8 @@ Passionate about coding and problem-solving, I dance with data, wield Python lik
 - **Python:** Fluent in Pythonese!
 - **Web Development:** Crafting web dreams with HTML, CSS, NodeJS, and ReactJS.
 - **Linux & Git:** Command-line ninja with a touch of version control wizardry.
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpotdar-py)](https://github.com/yashpotdar-py/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpotdar-py)](https://github.com/yashpotdar-py/github-readme-stats)
+[![Yash's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashpotdar-py)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Let's Connect and Create!
 
