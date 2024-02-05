@@ -12,20 +12,6 @@ Passionate about coding and problem-solving, I dance with data, wield Python lik
 - **Web Development:** Crafting web dreams with HTML, CSS, NodeJS, and ReactJS.
 - **Linux & Git:** Command-line ninja with a touch of version control wizardry.
 
-## 🏆 Certified Awesomeness
-
-### Google IT Automation with Python Specialization
-*Coursera & Google | October 2022*
-
-[Certificate Link](bit.ly/google-it-automation-yash)
-
-Mastered the art of Python, Git, and IT automation. Troubleshooting, debugging, and automation? Nailed it!
-
-### The Complete 2023 Web Development Bootcamp
-*Udemy | November 2023*
-
-[Course Link](bit.ly/web-development-yash)
-
 ## 🚀 Let's Connect and Create!
 
 - [Portfolio](https://yashpotdar.netlify.app/) - My coding playground 🎮
