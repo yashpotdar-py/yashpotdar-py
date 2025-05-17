@@ -102,7 +102,12 @@
     <br>
     Recruiters, collaborators, and curious minds — slide into my DMs! 🚀
   </b>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yashpotdar-py&label=VISITOR+COUNT&color=eba0ac&label_color=1e1e2e&style=flat" alt="Visitor Count Badge" />
+  </p>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f38ba8&height=120&section=footer" />
