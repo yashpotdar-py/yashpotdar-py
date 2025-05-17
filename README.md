@@ -1,23 +1,109 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A full-stack project integrating Cybersecurity and Generative AI, focusing on a Deepfake Detection Hub to address media manipulation issues.<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, cybersecurity solutions, and innovative applications of Generative AI, especially those with a societal impact.<br><br>🤝 I’m looking for help with<br>Exploring advanced techniques in deepfake detection, enhancing scalability in full-stack applications, and brainstorming features for a Data Privacy Dashboard.<br><br>🌱 I’m currently learning<br>Advanced topics in AI/ML, Generative AI frameworks, ethical hacking, and the intersection of AI and cybersecurity.<br><br>💬 Ask me about<br>AI/ML, Generative AI, ethical hacking, LangChain, TensorFlow, PyTorch, and full-stack development using Next.js and Python.<br><br>⚡ Fun fact<br>I’ve trained an AI to play Flappy Bird and have a knack for finding innovative solutions to tech challenges!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=eba0ac&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Yash+Potdar!" alt="Typing SVG - Line 1">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=b4befe&center=true&vCenter=true&width=650&lines=ML+%7C+Full-Stack+Dev+%7C+MLOps+Engineer" alt="Typing SVG - Line 2">
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash.potdar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashyogeshpotdar) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashpotdar-py&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpotdar-py&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashpotdar-py&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<h1 align="center" style="color:#eba0ac;">🌟 Welcome! Let's Build Something Amazing. 🌟</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashpotdar-py&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif" width="200" alt="Sexy AI Coder" />
+</p>
+
+---
+
+<h2 align="center" style="color:#f38ba8;">About Me</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ethical--Hacking-%23eba0ac?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking Badge">
+  <img src="https://img.shields.io/badge/Python-%23f9e2af?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Full--Stack-%23b4befe?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Badge">
+  <img src="https://img.shields.io/badge/MLOps-%23f38ba8?style=for-the-badge&logo=python&logoColor=white" alt="MLOps Badge">
+</div>
+
+- 🔥 <b>Turning data and dreams into production-ready ML & web apps.</b>
+- 🦾 <b>End-to-end builder:</b> ML, Backend, Frontend, CI/CD, Cloud.
+- 🧠 <b>Always learning:</b> Cloud MLOps, DX, cool new frameworks.
+- 🪄 <b>Open source & hackathon lover, with a flair for eye-catching UI.</b>
+- 📫 <b>Let's connect:</b> [LinkedIn](https://www.linkedin.com/in/yashpotdar) | [Email](mailto:yashpotdar.py@gmail.com)
+
+---
+
+<h2 align="center" style="color:#fab387;">🥇 My Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🚰 <span style="color:#f38ba8;">Water Potability Detection</span></b><br>
+      <i>MLOps pipeline, live web, monitoring, CI/CD, and more.</i><br>
+      <a href="https://github.com/yashpotdar-py/water-potability-detection"><img src="https://img.shields.io/github/stars/yashpotdar-py/water-potability-detection?style=for-the-badge&color=eba0ac" /></a>
+    </td>
+    <td width="50%">
+      <b>🤖 <span style="color:#f38ba8;">AI-Redaction Tool</span></b><br>
+      <i>AI-based Redaction and Anonymization Tool.</i><br>
+      <a href="https://github.com/yashpotdar-py/redact-sih"><img src="https://img.shields.io/github/stars/yashpotdar-py/redact-sih?style=for-the-badge&color=eba0ac" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💊 <span style="color:#f38ba8;">Medicine Reminder</span></b><br>
+      <i>Never miss a dose! Smart, user-friendly reminder system.</i><br>
+      <a href="https://github.com/yashpotdar-py/medicine-reminder"><img src="https://img.shields.io/github/stars/yashpotdar-py/medicine-reminder?style=for-the-badge&color=eba0ac" /></a>
+    </td>
+    <td>
+      <b>🧑‍💻 <span style="color:#f38ba8;">Drowning Detection System</span></b><br>
+      <i>YOLOv8 and IoT based drowning system.</i><br>
+      <a href="https://github.com/yashpotdar-py/drowning-detection-system"><img src="https://img.shields.io/github/stars/yashpotdar-py/drowning-detection-system?style=for-the-badge&color=eba0ac" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center" style="color:#eba0ac;">👨‍💻 My Technical Toolbox</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,django,tailwind,docker,kubernetes,aws,vercel,github,git,vscode,tensorflow,pytorch,mongodb,mysql,html,css,cpp,raspberrypi,linux,bash" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+---
+
+<h2 align="center" style="color:#fab387;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashpotdar-py&show_icons=true&theme=catppuccin-mocha&title_color=f38ba8&icon_color=eba0ac&text_color=f9e2af&bg_color=1e1e2e" width="420">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashpotdar-py&theme=catppuccin-mocha&background=1e1e2e&ring=f38ba8&fire=eba0ac&currStreakLabel=fab387" width="420">
+</p>
+
+---
+
+<h2 align="center" style="color:#f38ba8;">📬 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashpotdar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:yashpotdar.py@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yashpotdar-py">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="color:#f38ba8;">
+  <b>Let's create something unforgettable. 
+    <br>
+    Recruiters, collaborators, and curious minds — slide into my DMs! 🚀
+  </b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f38ba8&height=120&section=footer" />
+</p>
