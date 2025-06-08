@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,django,tailwind,docker,kubernetes,aws,vercel,github,git,vscode,tensorflow,pytorch,mongodb,mysql,html,css,cpp,raspberrypi,linux,bash" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,django,tailwind,docker,kubernetes,aws,vercel,github,git,vscode,tensorflow,pytorch,mongodb,mysql,html,css,cpp,raspberrypi,linux,bash,flutter,dart" alt="Tech Stack Icons" />
   </a>
 </p>
 
