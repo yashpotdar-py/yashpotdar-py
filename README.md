@@ -1,103 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=120&section=header" width="100%"/>
 
-# Hey 👋 I'm Yash Potdar
+# 👋 Hey, I'm Yash Potdar
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=600&lines=homelab+tinkerer+%E2%80%A2+infra+%26+security;documents+everything+(probably+too+much);breaks+things+intentionally+%F0%9F%94%A5;builds+tools+%2C+not+unicorns+%F0%9F%A6%84)
+### Homelab Tinkerer • Infrastructure & Security • Documentation Enthusiast
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=700&lines=I+build+things+that+solve+real+problems;break+them+intentionally+to+learn;and+document+everything+along+the+way+%F0%9F%93%9D)
+
+<br>
+
+**If it involves Linux, SSH, Raspberry Pi, or "let's see what happens if..." — I'm in.** 🔥
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/yashpotdar-py?style=social)](https://github.com/yashpotdar-py)
+[![GitHub stars](https://img.shields.io/github/stars/yashpotdar-py?style=social)](https://github.com/yashpotdar-py)
 
 </div>
 
----
-
-I build small, useful infrastructure tools and homelab prototypes, intentionally break them to learn how they fail, and document the entire process so you don't have to.
-
-If it involves Linux, SSH, Raspberry Pi, or saying "let's see what happens if I..." — I'm probably interested.
+<br>
 
 ---
 
-## 🛠️ What I Actually Do
+<br>
 
-- **Build security tools** that I'd want to use (like [sentinel-ssh](https://github.com/yashpotdar-py/sentinel-ssh) — a lightweight SSH intrusion detector with personality)
-- **Run homelabs** on Raspberry Pi hardware, Debian systems, and whatever else survives the power bill
-- **Document everything** — postmortems, setup guides, failure logs, and lessons learned
-- **Break things intentionally** to understand how they work (and write about it)
-- **Write Python** when shell scripts get embarrassing
+<div align="center">
 
-I prefer single-player technical exploration over Zoom meetings. My projects are small, focused, and designed to teach me (and you) something specific.
+## 🎯 Quick Navigation
+
+**[🛡️ Featured Project](#-featured-project) • [🧰 Tech Stack](#-tools--tech-i-actually-use) • [💡 Philosophy](#-philosophy) • [📬 Contact](#-get-in-touch)**
+
+</div>
+
+<br>
 
 ---
 
-## 🧪 Current Experiments
+<br>
+
+## 🚀 What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🛡️ [sentinel-ssh](https://github.com/yashpotdar-py/sentinel-ssh)
+### Building in Public
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+I create **small, focused infrastructure tools** and **homelab prototypes** that solve real problems. My approach: build minimal, break intentionally, document thoroughly, and ship working (not perfect).
 
-Lightweight SSH intrusion detector + auto-responder. Built because I wanted transparency over "magic" in security tooling.
+**My specialty:**
+- 🔐 Security tooling with transparency (no black boxes)
+- 🏠 Homelab infrastructure on budget hardware
+- 📝 Over-documentation (intentionally verbose READMEs)
+- 🔍 Postmortems that show failures, not just wins
 
-**Features:**
-- Real-time `journald` log parsing
-- Brute-force detection with sliding time windows
-- Temporary UFW blocks (so you don't accidentally ruin your life)
-- Prometheus metrics for observability nerds
-
-**Tech:** Python, systemd, journald, UFW, Prometheus  
-**Status:** Production-ready (on my Pi, anyway)
+**Philosophy:** If I can't audit it at 3 AM, I don't run it as root.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 🏠 Homelab Infrastructure
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Coding Animation">
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Status](https://img.shields.io/badge/status-tinkering-orange?style=flat-square)
-
-An ongoing experiment in running useful services on hardware that costs less than a sandwich.
-
-**Current Setup:**
-- Pi-hole for DNS filtering
-- SSH hardening and monitoring
-- Network topology that probably violates some RFC
-- Various services that may or may not be up
-
-**Documentation:** In progress. Postmortems upcoming.
+**Quick Stats:**
+```yaml
+focus: Infrastructure & Security
+style: Break first, document after
+stack: Linux, Python, Raspberry Pi
+goal: Learn by doing (and failing)
+```
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
+
+<br>
+
+## �️ Featured Project
+
+<div align="center">
+
+### ⭐ [Sentinel-SSH](https://github.com/yashpotdar-py/sentinel-ssh) — SSH Intrusion Detection That Actually Makes Sense
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+#### 📊 Project Stats
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-production-success?style=for-the-badge)
+
+</div>
+
+**🎯 Why I Built This:**
+
+I wanted SSH security I could actually *audit* at 3 AM — no black boxes, no "trust me bro" configs. Sentinel-SSH watches your journald logs, detects brute-force patterns, and auto-blocks attackers.
+
+**✨ Key Features:**
+- ⚡ Real-time `journald` log parsing
+- 🧠 Smart brute-force detection (sliding windows)
+- 🛡️ Temporary UFW blocks (won't lock you out)
+- 📊 Prometheus metrics built-in
+- 📝 Over-documented (150+ line README)
+
+**🔧 Stack:** Python • systemd • journald • UFW • Prometheus
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+#### 🏠 Other Projects
+
+</div>
+
+**Homelab Infrastructure** 🔧
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Status](https://img.shields.io/badge/status-tinkering-orange?style=for-the-badge)
+
+Running production services on <$100 hardware:
+- 🔍 Pi-hole for DNS filtering
+- 🔐 SSH hardening + monitoring
+- 🌐 Network topology (possibly RFC-violating)
+- 📡 Prometheus + Grafana observability
+
+---
+
+**Coming Soon:**
+- 📝 Homelab setup guides
+- 💥 Postmortems ("what I broke and how")
+- 🛠️ More security tooling
+- 🦀 Rust experiments (because I hate myself)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**[➡️ View Sentinel-SSH on GitHub](https://github.com/yashpotdar-py/sentinel-ssh)**
+
+</div>
+
+<br>
+
+---
+
+<br>
 
 ## 💡 Philosophy
 
-> **"Build minimal solutions, intentionally break them, iterate until the lessons are clear."**
+<div align="center">
 
-I write code to learn, not to scale to a billion users. My projects are:
+### *“You come at infrastructure with grep and a prayer, you best know what you're looking for.”*
 
-- **Transparent** — you should know *why* a decision was made
-- **Documented** — future-me deserves context
-- **Practical** — solves a real (if small) problem
-- **Auditable** — no black boxes, no "just trust me"
+</div>
 
-If a tool doesn't make sense at 3 AM when something's broken, I don't want to use it.
+<br>
 
----
+<table>
+<tr>
+<td width="50%">
+
+**🔥 My Rules:**
+
+1. **Break it first** — If you don't know how it fails, you don't know how it works
+2. **Document everything** — Future-me deserves context
+3. **No black boxes** — If I can't read the code, I won't run it as root
+4. **Ship working, not perfect** — Production teaches more than planning
+
+</td>
+<td width="50%">
+
+**⚠️ What I Believe:**
+
+- Security by obscurity = surprise incompetence with good PR
+- READMEs longer than code = documentation done right
+- 3 AM debugging sessions = best learning moments
+- Failing fast > planning forever
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<br>
 
 ## 🧰 Tools & Tech I Actually Use
 
 <div align="center">
 
 ### Systems & Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -105,59 +213,158 @@ If a tool doesn't make sense at 3 AM when something's broken, I don't want to us
 ![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge)
 
 ### Languages & Development
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Networking & Security
+
 ![UFW](https://img.shields.io/badge/UFW-DD4814?style=for-the-badge)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+<br>
+
+**🛠️ Note:** *I don't do "full-stack" anymore. I do "full-depth" — one layer at a time, documented thoroughly.*
+
 </div>
 
-> *I don't do "full-stack" anymore. I do "full-depth" — one layer at a time, documented thoroughly.*
+<br>
 
----
+<br>
 
-## 📝 What I Write About
+## 📝 What I Write
 
-- **Postmortems** — what broke, why it broke, and how I fixed it (or gave up)
-- **Setup guides** — reproducible steps so you don't waste a weekend like I did
-- **Threat models** — thinking through failure modes before they happen
-- **System design docs** — because reading your own code 6 months later is humbling
-- **Lessons learned** — usually titled "don't do what I did"
+<div align="center">
 
-Check the repos for READMEs longer than the code. That's intentional.
+| Type | What You'll Find |
+|------|------------------|
+| 💥 **Postmortems** | What broke, why it broke, and how I fixed it (or didn't) |
+| 🛠️ **Setup Guides** | Reproducible steps so you don't waste a weekend like I did |
+| 🔐 **Threat Models** | Thinking through failure modes before they happen |
+| 📊 **Design Docs** | System architecture (because future-me needs help) |
+| 📈 **Lessons Learned** | Usually titled "don't do what I did" |
 
----
+*Check the repos for READMEs longer than the code. That's intentional.*
 
-## 🎯 Current Focus
+</div>
 
-- Expanding homelab monitoring and alerting
-- Building more security tooling with Prometheus metrics
-- Writing detailed setup guides for Raspberry Pi projects
-- Learning Rust (because Python is too slow and I hate myself)
+<br>
 
----
+<br>
+
+<div align="center">
+
+## 🎯 Who This Profile Is For
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ✅ **You'll Love It Here If:**
+
+✅ You build to learn, not to scale to billions  
+✅ You want honest postmortems (failures included)  
+✅ You value documentation over hype  
+✅ You run homelabs on budget hardware  
+✅ You audit code before running it as root  
+
+</td>
+<td width="50%" align="center">
+
+### ❌ **Wrong Place If You Want:**
+
+❌ Enterprise-grade, VC-backed SaaS platforms  
+❌ Production systems for Fortune 500 companies  
+❌ Someone who says "synergy" unironically  
+❌ Crypto/NFT/blockchain pitches  
+❌ Perfection over pragmatism  
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 📬 Get In Touch
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-fabd2f?style=for-the-badge)](https://github.com/yashpotdar-py)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐_Coming_Soon-fabd2f?style=for-the-badge)](https://github.com/yashpotdar-py)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpotdar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpotdar.py@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashpotdar-py)
 
 </div>
 
-> *I respond fastest to technical questions, project ideas, or suggestions for obscure sysadmin tooling.*
+<br>
 
----
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ✅ **I Respond Fast To:**
+
+👍 Technical questions about my projects  
+👍 Ideas for obscure sysadmin tooling  
+👍 Postmortem war stories  
+👍 "I tried your thing and it broke" *(feature, not bug)*  
+
+</td>
+<td width="50%" align="center">
+
+### 🚫 **Please Don't:**
+
+🚫 Ask me to fix your printer  
+🚫 Pitch crypto/NFT/blockchain anything  
+🚫 Expect enterprise support on hobby projects  
+🚫 Send unsolicited job spam  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<br>
+
+<div align="center">
+
+## 🚀 Start Here
+
+<table>
+<tr>
+<th width="25%">🛡️ Security Tools</th>
+<th width="25%">💥 Learn From Failures</th>
+<th width="25%">🏠 Build Homelab</th>
+<th width="25%">👀 Just Explore</th>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/yashpotdar-py/sentinel-ssh">sentinel-ssh</a></td>
+<td align="center">READMEs + Docs<br><i>(coming soon)</i></td>
+<td align="center">Homelab Guides<br><i>(in progress)</i></td>
+<td align="center">Browse Repos</td>
+</tr>
+</table>
+
+<br>
+
+### ⭐ **Like what you see? Star a repo — it's free dopamine for both of us!**
+
+</div>
+
+<br>
 
 ## 🚨 Fair Warning
+
+<div align="center">
+
+**This is not a portfolio for people who want everything to "just work."**
 
 My projects are:
 - Built for learning, not production (unless noted otherwise)
@@ -165,8 +372,22 @@ My projects are:
 - Sometimes intentionally broken to prove a point
 - Designed to run on a $35 computer
 
-If you're looking for blazing-fast, enterprise-grade, venture-backed SaaS — you're in the wrong place.  
-If you want to learn by building small, practical tools — stick around.
+### If you're looking for:
+❌ Blazing-fast, enterprise-grade, venture-backed SaaS  
+❌ Production-ready, battle-tested, Fortune 500 approved systems  
+❌ Someone who uses "disruptive" and "synergy" unironically  
+
+**← You're in the wrong place.**
+
+### If you want:
+✅ To learn by building small, practical tools  
+✅ To understand *why* something works (or doesn't)  
+✅ READMEs longer than the actual code  
+✅ Honest postmortems about what went wrong  
+
+**→ Stick around. Clone a repo. Break something.**
+
+</div>
 
 ---
 
@@ -186,8 +407,14 @@ If you want to learn by building small, practical tools — stick around.
 
 <div align="center">
 
-### *Built with ☕, paranoia, and too much free time.*
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=100&section=footer" width="100%"/>
+*Built with ☕ paranoia, and way too much free time*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=120&section=footer" width="100%"/>
+
+**© 2026 Yash Potdar • Breaking things intentionally since... recently**
 
 </div>
