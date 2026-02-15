@@ -1,114 +1,193 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=eba0ac&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Yash+Potdar!" alt="Typing SVG - Line 1">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=b4befe&center=true&vCenter=true&width=650&lines=ML+%7C+Full-Stack+Dev+%7C+MLOps+Engineer" alt="Typing SVG - Line 2">
-</p>
-
-<h1 align="center" style="color:#eba0ac;">🌟 Welcome! Let's Build Something Amazing. 🌟</h1>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif" width="200" alt="Sexy AI Coder" />
-</p>
-
----
-
-<h2 align="center" style="color:#f38ba8;">About Me</h2>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Ethical--Hacking-%23eba0ac?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking Badge">
-  <img src="https://img.shields.io/badge/Python-%23f9e2af?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Full--Stack-%23b4befe?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Badge">
-  <img src="https://img.shields.io/badge/MLOps-%23f38ba8?style=for-the-badge&logo=python&logoColor=white" alt="MLOps Badge">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=100&section=header" width="100%"/>
+
+# Hey 👋 I'm Yash Potdar
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=600&lines=homelab+tinkerer+%E2%80%A2+infra+%26+security;documents+everything+(probably+too+much);breaks+things+intentionally+%F0%9F%94%A5;builds+tools+%2C+not+unicorns+%F0%9F%A6%84)
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
 </div>
 
-- 🔥 <b>Turning data and dreams into production-ready ML & web apps.</b>
-- 🦾 <b>End-to-end builder:</b> ML, Backend, Frontend, CI/CD, Cloud.
-- 🧠 <b>Always learning:</b> Cloud MLOps, DX, cool new frameworks.
-- 🪄 <b>Open source & hackathon lover, with a flair for eye-catching UI.</b>
-- 📫 <b>Let's connect:</b> [LinkedIn](https://www.linkedin.com/in/yashpotdar) | [Email](mailto:yashpotdar.py@gmail.com)
+---
+
+I build small, useful infrastructure tools and homelab prototypes, intentionally break them to learn how they fail, and document the entire process so you don't have to.
+
+If it involves Linux, SSH, Raspberry Pi, or saying "let's see what happens if I..." — I'm probably interested.
 
 ---
 
-<h2 align="center" style="color:#fab387;">🥇 My Projects</h2>
+## 🛠️ What I Actually Do
+
+- **Build security tools** that I'd want to use (like [sentinel-ssh](https://github.com/yashpotdar-py/sentinel-ssh) — a lightweight SSH intrusion detector with personality)
+- **Run homelabs** on Raspberry Pi hardware, Debian systems, and whatever else survives the power bill
+- **Document everything** — postmortems, setup guides, failure logs, and lessons learned
+- **Break things intentionally** to understand how they work (and write about it)
+- **Write Python** when shell scripts get embarrassing
+
+I prefer single-player technical exploration over Zoom meetings. My projects are small, focused, and designed to teach me (and you) something specific.
+
+---
+
+## 🧪 Current Experiments
 
 <table>
-  <tr>
-    <td width="50%">
-      <b>🚰 <span style="color:#f38ba8;">Water Potability Detection</span></b><br>
-      <i>MLOps pipeline, live web, monitoring, CI/CD, and more.</i><br>
-      <a href="https://github.com/yashpotdar-py/water-potability-detection"><img src="https://img.shields.io/github/stars/yashpotdar-py/water-potability-detection?style=for-the-badge&color=eba0ac" /></a>
-    </td>
-    <td width="50%">
-      <b>🤖 <span style="color:#f38ba8;">AI-Redaction Tool</span></b><br>
-      <i>AI-based Redaction and Anonymization Tool.</i><br>
-      <a href="https://github.com/yashpotdar-py/redact-sih"><img src="https://img.shields.io/github/stars/yashpotdar-py/redact-sih?style=for-the-badge&color=eba0ac" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>💊 <span style="color:#f38ba8;">Medicine Reminder</span></b><br>
-      <i>Never miss a dose! Smart, user-friendly reminder system.</i><br>
-      <a href="https://github.com/yashpotdar-py/medicine-reminder"><img src="https://img.shields.io/github/stars/yashpotdar-py/medicine-reminder?style=for-the-badge&color=eba0ac" /></a>
-    </td>
-    <td>
-      <b>🧑‍💻 <span style="color:#f38ba8;">Drowning Detection System</span></b><br>
-      <i>YOLOv8 and IoT based drowning system.</i><br>
-      <a href="https://github.com/yashpotdar-py/drowning-detection-system"><img src="https://img.shields.io/github/stars/yashpotdar-py/drowning-detection-system?style=for-the-badge&color=eba0ac" /></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [sentinel-ssh](https://github.com/yashpotdar-py/sentinel-ssh)
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+Lightweight SSH intrusion detector + auto-responder. Built because I wanted transparency over "magic" in security tooling.
+
+**Features:**
+- Real-time `journald` log parsing
+- Brute-force detection with sliding time windows
+- Temporary UFW blocks (so you don't accidentally ruin your life)
+- Prometheus metrics for observability nerds
+
+**Tech:** Python, systemd, journald, UFW, Prometheus  
+**Status:** Production-ready (on my Pi, anyway)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Homelab Infrastructure
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Status](https://img.shields.io/badge/status-tinkering-orange?style=flat-square)
+
+An ongoing experiment in running useful services on hardware that costs less than a sandwich.
+
+**Current Setup:**
+- Pi-hole for DNS filtering
+- SSH hardening and monitoring
+- Network topology that probably violates some RFC
+- Various services that may or may not be up
+
+**Documentation:** In progress. Postmortems upcoming.
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center" style="color:#eba0ac;">👨‍💻 My Technical Toolbox</h2>
+## 💡 Philosophy
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,django,tailwind,docker,kubernetes,aws,vercel,github,git,vscode,tensorflow,pytorch,mongodb,mysql,html,css,cpp,raspberrypi,linux,bash,flutter,dart" alt="Tech Stack Icons" />
-  </a>
-</p>
+> **"Build minimal solutions, intentionally break them, iterate until the lessons are clear."**
 
----
+I write code to learn, not to scale to a billion users. My projects are:
 
-<h2 align="center" style="color:#fab387;">📊 GitHub Stats</h2>
+- **Transparent** — you should know *why* a decision was made
+- **Documented** — future-me deserves context
+- **Practical** — solves a real (if small) problem
+- **Auditable** — no black boxes, no "just trust me"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashpotdar-py&show_icons=true&theme=catppuccin-mocha&title_color=f38ba8&icon_color=eba0ac&text_color=f9e2af&bg_color=1e1e2e" width="420">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashpotdar-py&theme=catppuccin-mocha&background=1e1e2e&ring=f38ba8&fire=eba0ac&currStreakLabel=fab387" width="420">
-</p>
+If a tool doesn't make sense at 3 AM when something's broken, I don't want to use it.
 
 ---
 
-<h2 align="center" style="color:#f38ba8;">📬 Connect With Me</h2>
+## 🧰 Tools & Tech I Actually Use
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashpotdar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:yashpotdar.py@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/yashpotdar-py">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+
+### Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-3E94D3?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge)
+
+### Languages & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Networking & Security
+![UFW](https://img.shields.io/badge/UFW-DD4814?style=for-the-badge)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
+
+> *I don't do "full-stack" anymore. I do "full-depth" — one layer at a time, documented thoroughly.*
 
 ---
 
-<p align="center" style="color:#f38ba8;">
-  <b>Let's create something unforgettable. 
-    <br>
-    Recruiters, collaborators, and curious minds — slide into my DMs! 🚀
-  </b>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yashpotdar-py&label=VISITOR+COUNT&color=eba0ac&label_color=1e1e2e&style=flat" alt="Visitor Count Badge" />
-  </p>
-</p>
+## 📝 What I Write About
+
+- **Postmortems** — what broke, why it broke, and how I fixed it (or gave up)
+- **Setup guides** — reproducible steps so you don't waste a weekend like I did
+- **Threat models** — thinking through failure modes before they happen
+- **System design docs** — because reading your own code 6 months later is humbling
+- **Lessons learned** — usually titled "don't do what I did"
+
+Check the repos for READMEs longer than the code. That's intentional.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f38ba8&height=120&section=footer" />
-</p>
+## 🎯 Current Focus
+
+- Expanding homelab monitoring and alerting
+- Building more security tooling with Prometheus metrics
+- Writing detailed setup guides for Raspberry Pi projects
+- Learning Rust (because Python is too slow and I hate myself)
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-fabd2f?style=for-the-badge)](https://github.com/yashpotdar-py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpotdar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpotdar.py@gmail.com)
+
+</div>
+
+> *I respond fastest to technical questions, project ideas, or suggestions for obscure sysadmin tooling.*
+
+---
+
+## 🚨 Fair Warning
+
+My projects are:
+- Built for learning, not production (unless noted otherwise)
+- Over-documented on purpose
+- Sometimes intentionally broken to prove a point
+- Designed to run on a $35 computer
+
+If you're looking for blazing-fast, enterprise-grade, venture-backed SaaS — you're in the wrong place.  
+If you want to learn by building small, practical tools — stick around.
+
+---
+
+## 📊 Stats (if you care)
+
+<div align="center">
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashpotdar-py&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&icon_color=fb4934&text_color=ebdbb2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpotdar-py&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&text_color=ebdbb2)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yashpotdar-py&color=fabd2f&style=flat-square&label=Visitors+%28who+got+lost%29)
+
+</div>
+
+---
+
+<div align="center">
+
+### *Built with ☕, paranoia, and too much free time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=100&section=footer" width="100%"/>
+
+</div>
