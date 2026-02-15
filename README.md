@@ -8,36 +8,18 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=700&lines=I+build+things+that+solve+real+problems;break+them+intentionally+to+learn;and+document+everything+along+the+way+%F0%9F%93%9D)
 
-<br>
-
 **If it involves Linux, SSH, Raspberry Pi, or "let's see what happens if..." — I'm in.** 🔥
-
-<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/yashpotdar-py?style=social)](https://github.com/yashpotdar-py)
 [![GitHub stars](https://img.shields.io/github/stars/yashpotdar-py?style=social)](https://github.com/yashpotdar-py)
 
 </div>
 
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ## 🎯 Quick Navigation
 
-**[🛡️ Featured Project](#-featured-project) • [🧰 Tech Stack](#-tools--tech-i-actually-use) • [💡 Philosophy](#-philosophy) • [📬 Contact](#-get-in-touch)**
-
-</div>
-
-<br>
+**[🛡️ Featured Project](#️-featured-project) • [🧰 Tech Stack](#-tools--tech-i-actually-use) • [💡 Philosophy](#-philosophy) • [📬 Contact](#-get-in-touch)**
 
 ---
-
-<br>
 
 ## 🚀 What I Do
 
@@ -74,11 +56,7 @@ goal: Learn by doing (and failing)
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 ## �️ Featured Project
 
@@ -92,16 +70,12 @@ goal: Learn by doing (and failing)
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 #### 📊 Project Stats
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-production-success?style=for-the-badge)
-
-</div>
 
 **🎯 Why I Built This:**
 
@@ -119,11 +93,7 @@ I wanted SSH security I could actually *audit* at 3 AM — no black boxes, no "t
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 #### 🏠 Other Projects
-
-</div>
 
 **Homelab Infrastructure** 🔧
 
@@ -137,8 +107,6 @@ Running production services on <$100 hardware:
 - 🌐 Network topology (possibly RFC-violating)
 - 📡 Prometheus + Grafana observability
 
----
-
 **Coming Soon:**
 - 📝 Homelab setup guides
 - 💥 Postmortems ("what I broke and how")
@@ -149,27 +117,13 @@ Running production services on <$100 hardware:
 </tr>
 </table>
 
-<div align="center">
-
 **[➡️ View Sentinel-SSH on GitHub](https://github.com/yashpotdar-py/sentinel-ssh)**
-
-</div>
-
-<br>
 
 ---
 
-<br>
-
 ## 💡 Philosophy
 
-<div align="center">
-
-### *“You come at infrastructure with grep and a prayer, you best know what you're looking for.”*
-
-</div>
-
-<br>
+> *“You come at infrastructure with grep and a prayer, you best know what you're looking for.”*
 
 <table>
 <tr>
@@ -196,77 +150,49 @@ Running production services on <$100 hardware:
 </tr>
 </table>
 
-<br>
-
-<br>
+---
 
 ## 🧰 Tools & Tech I Actually Use
 
 <div align="center">
 
-### Systems & Infrastructure
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-3E94D3?style=for-the-badge)
-![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge)
-
-### Languages & Development
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Networking & Security
 
 ![UFW](https://img.shields.io/badge/UFW-DD4814?style=for-the-badge)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<br>
-
-**🛠️ Note:** *I don't do "full-stack" anymore. I do "full-depth" — one layer at a time, documented thoroughly.*
+*I don't do "full-stack" anymore. I do "full-depth" — one layer at a time, documented thoroughly.*
 
 </div>
 
-<br>
-
-<br>
+---
 
 ## 📝 What I Write
-
-<div align="center">
 
 | Type | What You'll Find |
 |------|------------------|
 | 💥 **Postmortems** | What broke, why it broke, and how I fixed it (or didn't) |
 | 🛠️ **Setup Guides** | Reproducible steps so you don't waste a weekend like I did |
 | 🔐 **Threat Models** | Thinking through failure modes before they happen |
-| 📊 **Design Docs** | System architecture (because future-me needs help) |
 | 📈 **Lessons Learned** | Usually titled "don't do what I did" |
 
 *Check the repos for READMEs longer than the code. That's intentional.*
 
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
+---
 
 ## 🎯 Who This Profile Is For
 
-</div>
-
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### ✅ **You'll Love It Here If:**
+**✅ You'll Love It Here If:**
 
 ✅ You build to learn, not to scale to billions  
 ✅ You want honest postmortems (failures included)  
@@ -275,9 +201,9 @@ Running production services on <$100 hardware:
 ✅ You audit code before running it as root  
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### ❌ **Wrong Place If You Want:**
+**❌ Wrong Place If You Want:**
 
 ❌ Enterprise-grade, VC-backed SaaS platforms  
 ❌ Production systems for Fortune 500 companies  
@@ -289,7 +215,7 @@ Running production services on <$100 hardware:
 </tr>
 </table>
 
-<br>
+---
 
 ## 📬 Get In Touch
 
@@ -302,13 +228,11 @@ Running production services on <$100 hardware:
 
 </div>
 
-<br>
-
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### ✅ **I Respond Fast To:**
+**✅ I Respond Fast To:**
 
 👍 Technical questions about my projects  
 👍 Ideas for obscure sysadmin tooling  
@@ -316,9 +240,9 @@ Running production services on <$100 hardware:
 👍 "I tried your thing and it broke" *(feature, not bug)*  
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🚫 **Please Don't:**
+**🚫 Please Don't:**
 
 🚫 Ask me to fix your printer  
 🚫 Pitch crypto/NFT/blockchain anything  
@@ -329,11 +253,7 @@ Running production services on <$100 hardware:
 </tr>
 </table>
 
-<br>
-
-<br>
-
-<div align="center">
+---
 
 ## 🚀 Start Here
 
@@ -352,54 +272,17 @@ Running production services on <$100 hardware:
 </tr>
 </table>
 
-<br>
-
-### ⭐ **Like what you see? Star a repo — it's free dopamine for both of us!**
-
-</div>
-
-<br>
-
-## 🚨 Fair Warning
-
-<div align="center">
-
-**This is not a portfolio for people who want everything to "just work."**
-
-My projects are:
-- Built for learning, not production (unless noted otherwise)
-- Over-documented on purpose
-- Sometimes intentionally broken to prove a point
-- Designed to run on a $35 computer
-
-### If you're looking for:
-❌ Blazing-fast, enterprise-grade, venture-backed SaaS  
-❌ Production-ready, battle-tested, Fortune 500 approved systems  
-❌ Someone who uses "disruptive" and "synergy" unironically  
-
-**← You're in the wrong place.**
-
-### If you want:
-✅ To learn by building small, practical tools  
-✅ To understand *why* something works (or doesn't)  
-✅ READMEs longer than the actual code  
-✅ Honest postmortems about what went wrong  
-
-**→ Stick around. Clone a repo. Break something.**
-
-</div>
+**⭐ Like what you see? Star a repo — it's free dopamine for both of us!**
 
 ---
 
-## 📊 Stats (if you care)
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashpotdar-py&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&icon_color=fb4934&text_color=ebdbb2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpotdar-py&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&text_color=ebdbb2)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yashpotdar-py&color=fabd2f&style=flat-square&label=Visitors+%28who+got+lost%29)
+![Visitor Count](https://komarev.com/ghpvc/?username=yashpotdar-py&color=fabd2f&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -407,11 +290,7 @@ My projects are:
 
 <div align="center">
 
-<br>
-
 *Built with ☕ paranoia, and way too much free time*
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=98C379&height=120&section=footer" width="100%"/>
 
